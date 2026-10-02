@@ -1,11 +1,19 @@
 <h3>Hello world!</h3>
-<p>My name is Alex and I'm a student at Akademia Tarrnowska.</p>
+<p>My name is Alex and I'm a student at <a href="https://anstar.edu.pl/">Akademia Tarrnowska.</a></p>
 
 <div align="right">
   <img align="right" src="https://github-stats-extended.vercel.app/api?username=anawooj&custom_title=Alex%27s%20Github%20stats&show=contributions,prs_merged_percentage&show_icons=true&include_all_commits=true&hide=stars&theme=dark_github">
 </div>
   
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu nulla maximus, pulvinar erat egestas, vestibulum neque. Praesent commodo porttitor eros eu tristique. Praesent eget justo fringilla, molestie eros nec, viverra lorem. In aliquet egestas faucibus. Phasellus viverra, ex eget placerat luctus, leo orci rhoncus quam, eu tempus ex eros ut orci. Suspendisse ornare finibus sapien iaculis volutpat. Mauris at elementum ipsum. Sed suscipit id justo ut tincidunt. Integer pharetra nec lacus in mattis. Duis nec lacus sit amet enim auctor suscipit. 
+&nbsp; 🔭 &nbsp; I’m currently working on **my portfolio**\
+&nbsp; 🌱 &nbsp; I’m currently learning **unity**, among other things\
+&nbsp; 💬 &nbsp; Big FOSS fan\
+&nbsp; 📚 &nbsp; Ask me anything about Linux\
+&nbsp; 📚 &nbsp; lorem ipsum\
+&nbsp; 📚 &nbsp; lorem ipsum\
+&nbsp; 📚 &nbsp; lorem ipsum\
+&nbsp; 📚 &nbsp; lorem ipsum\
+&nbsp; 📚 &nbsp; lorem ipsum
 
 <br />
 
@@ -69,8 +77,7 @@ A list of things I have experience working with. In the end it doesn't matter, a
 
 <br />
 
-### Contact me via
-  <p>⟡ Linkedin ⟡ Email ⟡<p/>
+### Contact me via [discord?]  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/anawoj/)  &nbsp; <a href="mailto:lorem ipsum"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 <br />
 
