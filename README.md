@@ -1,13 +1,12 @@
-In construction 🔨
 <div align="center">
-  <p><img width="20%" alt="Hello! I'm Alex" src="./assets/greeting-header.png" /></a></p>
+  <h3>Hello world!</h3>
+  <p>another text I guess</p>
 </div>
 
-  
-I'm student at Akademia Tarnowska. I aspire to be a software engineer to be added short about
+I'm a student at Akademia Tarnowska. I aspire to be a software engineer to be added short about
 
 ### My tech stack
-A list of things I have experience working with. In the end it doesn't matter, as I'm a quick learner of anything interesting...
+A list of things I have experience working with. In the end it doesn't matter, as I'm a quick learner of anything that piques my interest.
 
 <div align="center">
 
@@ -64,9 +63,13 @@ A list of things I have experience working with. In the end it doesn't matter, a
 
 </div>
 
+<br />
+
 ### Contact me via
   <p>⟡ Linkedin ⟡ Get in touch ⟡<p/>
 
+<br />
+
 <div align="center">
-  <i>fun quote here<i/>
+  <em>Design is the art of arranging code to work today, and be changeable forever.<em/>  — Sandi Metz
 </div>
