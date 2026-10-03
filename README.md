@@ -6,7 +6,7 @@
 ### About me
 
 <div align="right">
-  <img align="right" src="https://github-stats-extended.vercel.app/api?username=anawooj&hide_rank=true&hide_title=true&show=contributions,prs_merged_percentage&show_icons=true&include_all_commits=true&hide=stars&theme=dark_github">
+  <img align="right" src="https://github-stats-extended.vercel.app/api?username=anawooj&hide_rank=true&hide_title=true&show=contributions&show_icons=true&include_all_commits=true&hide=stars&theme=dark_github">
 </div>
 
   &nbsp; 🔭 &nbsp; Currently building **![portfolio](https://github.com/anawooj/anawooj.github.io)**\
@@ -15,7 +15,6 @@
   &nbsp; 🛠️ &nbsp; Currently improving my understanding of software architecture\
   &nbsp; 🐧 &nbsp; Ask me anything about **Linux**\
   &nbsp; 🚀 &nbsp; Next up: **a homelab**\
-  &nbsp; 🌍 &nbsp; Polish — native · English — C1\
   &nbsp; 🎯 &nbsp; Looking for a software engineering internship
 
 ### My skills
@@ -55,4 +54,7 @@ I primarily work with **Java, Spring Boot and PostgreSQL**, with additional expe
   </tr>
 </table>
 
+
 </div>
+
+**Spoken languages:** 🇵🇱 Polish (native) · 🇬🇧 English (C1)
