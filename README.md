@@ -1,7 +1,7 @@
 <h3>Hi there!</h3>
 <p>My name is Alex, a computer science student at Akademia Tarnowska focused on full-stack development.</p>
 
-![Website](https://www.anawooj.github.io) · ![Linkedin](https://www.linkedin.com/in/anawoj/) · ![Email me](mailto:alex.nawoj@proton.me)
+<a href="https://anawooj.github.io/">Website</a> · <a href="https://www.linkedin.com/in/anawoj/">Linkedin</a> · <a href="mailto:alex.nawoj@proton.me">Email me</a>
 
 ### About me
 
